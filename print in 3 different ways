@@ -1,0 +1,5 @@
+youtuber = "Build Your Skills"
+
+print("subscribe to " +youtuber)
+print ("subscribe to {}".format(youtuber))
+print(f"subscribe to {youtuber}")
